@@ -1,5 +1,5 @@
 +++
-title = "Mobile visual clothing search"
+title = "Epidemiological disease model"
 date = "2013-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -17,12 +17,13 @@ authors = ["GA Cushen", "MS Nixon"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
+publication = "Revised simulation model does not predict rebound in gonorrhoea prevalence where core groups are treated in the presence of antimicrobial resistance"
 publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
-abstract = "We present a mobile visual clothing search system whereby a smart phone user can either choose a social networking photo or take a new photo of a person wearing clothing of interest and search for similar clothing in a retail database. From the query image, the person is detected, clothing is segmented, and clothing features are extracted and quantized. The information is sent from the phone client to a server, where the feature vector of the query image is used to retrieve similar clothing products from online databases. The phone's GPS location is used to re-rank results by retail store location. State of the art work focuses primarily on the recognition of a diverse range of clothing offline and pays little attention to practical applications. Evaluated on a challenging dataset, the system is relatively fast and achieves promising results."
-abstract_short = "A mobile visual clothing search system is presented whereby a smart phone user can either choose a social networking image or capture a new photo of a person wearing clothing of interest and search for similar clothing in a large cloud-based ecommerce database. The phone's GPS location is used to re-rank results by retail store location, to inform the user of local stores where similar clothing items can be tried on."
+abstract = "To determine the effects of using discrete versus continuous quantities of people in a compartmental model examining the contribution of antimicrobial resistance (AMR) to rebound in the prevalence of gonorrhoea. A previously published transmission model was reconfigured to represent the occurrence of gonorrhoea in discrete persons, rather than allowing fractions of infected individuals during simulations. In the revised model, prevalence only rebounded under scenarios reproduced from the original paper when AMR occurrence was increased by 10(5) times. In such situations, treatment of high-risk individuals yielded outcomes very similar to those resulting from treatment of low-risk and intermediate-risk individuals. Otherwise, in contrast with the original model, prevalence was the lowest when the high-risk group was treated, supporting the current policy of targeting treatment to high-risk groups. Simulation models can be highly sensitive to structural features. Small differences in structure and parameters can substantially influence predicted outcomes and policy prescriptions, and must be carefully considered."
+
+# abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -59,7 +60,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
+# image = "headers/bubbles-wide.jpg"
 caption = "My caption :smile:"
 
 +++

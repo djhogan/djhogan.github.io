@@ -35,6 +35,6 @@ weight = 5
 
 # Biography
 
-Daniel Hogan is a PhD student at the University of Saskatchewan Bioinformatics Lab. His research interests include epitope prediction, machine learning, and statistical data analysis. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Daniel Hogan is a PhD student at the University of Saskatchewan Bioinformatics Lab. His research interests include epitope prediction, machine learning, and statistical data analysis. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
