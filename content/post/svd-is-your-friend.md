@@ -8,9 +8,6 @@ draft = false
 tags = []
 categories = []
 
-[params]
-math = true
-
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 # Use `caption` to display an image caption.
@@ -23,8 +20,6 @@ preview = true
 
 +++
 
-# What the heck is the Singular Value Decomposition?
+I used to be afraid of this thing. Gloss over it whenever it was mentioned in an article. Here is the equation:
 
-## What the heck is the Singular Value Decomposition?
-
-I used to be afraid of this thing. Gloss over it whenever it was mentioned in an article.
+$$ X = U \Sigma V^* $$
